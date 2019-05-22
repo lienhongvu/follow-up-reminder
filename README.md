@@ -1,0 +1,2 @@
+# A desktop app reminder (Support for GIBTK organization)
+- There is a script run automatically on Google Cloud to scan google sheet documents, export expected results into a another sheet and send mail to appropriate users to remind them about their due tasks. This app is the second option of reminding, will base on those results to remind users. This app will show a notification on user computer to remind them.
